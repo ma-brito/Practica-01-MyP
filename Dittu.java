@@ -14,7 +14,10 @@ public class Dittu {
     public String mostrarDefensaDittu(){
         return Dittu.defensa();
     }
+
+    
     public PoderDittu getPoder(){
         return Dittu;
     }
+    //e
 }
